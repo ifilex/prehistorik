@@ -1,0 +1,6 @@
+{
+  "name": "PREHISTORIX: Stone Age Arcade",
+  "description": "Juego retro arcade de plataformas en la edad de piedra con Sam el cavernícola, 7 niveles con jefes, comida, físicas arcade y cuevas secretas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
